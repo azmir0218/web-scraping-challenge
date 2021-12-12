@@ -16,7 +16,7 @@ Final page:
 
 ![image](https://github.com/azmir0218/web-scraping-challenge/blob/main/Missions_to_Mars/Images/img2.png)
 
-![image] (img3.png)
+![image] (https://github.com/azmir0218/web-scraping-challenge/blob/main/Missions_to_Mars/Images/img3.png)
 
 
 
